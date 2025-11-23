@@ -1,0 +1,17 @@
+# Efficient Fine-tuning with LoRA for RAG Hallucination Mitigation
+Last update: 2025-11-23
+1. [Learning representations by back-propagating errors](https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf)
+2. [The Llama 3 Herd of Models](https://arxiv.org/pdf/2407.21783)
+3. [The Most Important Algorithm in Machine Learning](https://www.youtube.com/watch?v=SmZmBKc7Lrs&t=904s)
+4. [The spelled-out intro to neural networks and backpropagation: building micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0&t=1129s)
+5. [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685)
+6. [Fine tuning Optimizations - DoRA, NEFT, LoRA+, Unsloth](https://www.youtube.com/watch?v=ae2lbmtTY5A&t=574s)
+7. [Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?](https://aclanthology.org/2024.emnlp-main.444.pdf)
+8. [Unanswerability Evaluation for Retrieval Augmented Generation](https://arxiv.org/pdf/2412.12300v1)
+9. [Pushing Models and Adapters to HuggingFace | Free Notebook](https://www.youtube.com/watch?v=Kd4JL7GnR8Y&t=1532s)
+10. [HalluLens: LLM Hallucination Benchmark](https://arxiv.org/pdf/2504.17550)
+11. [Hallucination-Free? Assessing the Reliability of Leading AI Legal Research Tools](https://arxiv.org/pdf/2405.20362)
+12. [INTRINSIC DIMENSIONALITY EXPLAINS THE EFFECTIVENESS OF LANGUAGE MODEL FINE-TUNING](https://arxiv.org/pdf/2012.13255)
+13. [LLM Visualization](https://bbycroft.net/llm)
+14. [Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL](https://huggingface.co/blog/unsloth-trl)
+15. [Finetune Mistral 14x faster](https://unsloth.ai/blog/mistral-benchmark)
