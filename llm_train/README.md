@@ -1,7 +1,6 @@
 # The triptych of LLM Training: Pre-Training, Fine-Tuning, and RLHF (2h)
 Last update: 2025-11-23
 
-### Resources
 1. [LLM Visualization](https://bbycroft.net/llm)
 2. [Animals vs Ghosts](https://karpathy.bearblog.dev/animals-vs-ghosts/)
 3. [Tiktokenizer](https://tiktokenizer.vercel.app/)
