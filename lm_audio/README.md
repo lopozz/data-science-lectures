@@ -2,7 +2,6 @@
 
 Last update: 2025-11-25
 
-## Resources
 1. [Text to Speech Fine-tuning Tutorial](https://www.youtube.com/watch?v=5-Dk3ooxn2Q&t=2414s)
 2. [Serve a Text to Speech Model with vLLM](https://www.youtube.com/watch?v=I2F9o8totrg&t=68s)
 3. [Fine-tune Text to Speech Models in 2025: CSM-1B and Orpheus TTS](https://www.youtube.com/watch?v=vfe8KIm1ubw&t=4199s)
